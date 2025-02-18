@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Exp2</string>
+    <string name="custom_font_text">Custom Font Text</string>
+    <string name="colored_button">Colored Button</string>
+</resources>
